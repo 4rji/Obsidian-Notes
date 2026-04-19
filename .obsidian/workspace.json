@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Anthropic Courses.md",
+                "file": "email-tools/email resources websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthropic Courses"
+              "title": "email resources websites"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "4e067aac4c297d3b",
   "lastOpenFiles": [
-    "AI courses/Antropic.md",
     "Clippings/Anthropic Courses.md",
+    "AI courses/Antropic.md",
     "Clippings/The Agent Skills Directory.md",
     "replace-quartz.sh",
     "cyberpunk.css",
