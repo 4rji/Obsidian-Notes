@@ -11,14 +11,12 @@
             "id": "4e067aac4c297d3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "email-tools/email resources websites.md",
-                "mode": "source",
-                "source": false
+                "file": "Network-tools/images/Screenshot 2026-04-19 at 1.56.17 PM.png"
               },
-              "icon": "lucide-file",
-              "title": "email resources websites"
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-04-19 at 1.56.17 PM"
             }
           }
         ]
@@ -94,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network-tools/images/Screenshot 2026-04-19 at 1.56.17 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Screenshot 2026-04-19 at 1.56.17 PM"
             }
           },
           {
@@ -180,8 +179,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "4e067aac4c297d3b",
+  "active": "f60b7fa4b8929e1e",
   "lastOpenFiles": [
+    "Network-tools/images/Pasted image 20260419132947.png",
+    "Network-tools/images",
+    "Network-tools/network diagnostics.md",
+    "Network-tools/images/Screenshot 2026-04-19 at 1.56.17 PM.png",
+    "Network-tools/images/Screenshot 2026-04-19 at 1.55.10 PM.png",
+    "Network-tools/images/Pasted image 20260419133235.png",
+    "Network-tools/images/Pasted image 20260419132955.png",
+    "email-tools/email resources websites.md",
+    "Network-tools",
     "Clippings/Anthropic Courses.md",
     "AI courses/Antropic.md",
     "Clippings/The Agent Skills Directory.md",
