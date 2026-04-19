@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf0f8ce9e128c11d",
+        "id": "99472f025770a7ba",
         "type": "tabs",
         "children": [
           {
-            "id": "76f091fb216fc18c",
+            "id": "a05ea9b91759180a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "76f091fb216fc18c",
+  "active": "f60b7fa4b8929e1e",
   "lastOpenFiles": [
+    "replace-quartz.sh",
+    "cyberpunk.css",
+    "apply-cyberpunk.js",
+    "hola",
+    "Welcome.html",
     "dibujos/Drawing 2026-04-17 07.53.19.excalidraw.md",
     "dibujos/Canvas.canvas"
   ]
