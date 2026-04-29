@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c88880da3252d252",
+        "id": "b771d78b8de4d435",
         "type": "tabs",
         "children": [
           {
-            "id": "881549d26c292899",
+            "id": "7d94617d3f905a7b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "881549d26c292899",
+  "active": "7d94617d3f905a7b",
   "lastOpenFiles": [
+    "index.md",
+    "index.md.md",
+    "index.html",
+    "AI courses/test.md",
+    "AI courses/Antropic.md",
+    "test.md",
     "Network-tools/images/Pasted image 20260419132947.png",
     "Network-tools/images",
     "Network-tools/network diagnostics.md",
@@ -189,7 +195,6 @@
     "email-tools/email resources websites.md",
     "Network-tools",
     "Clippings/Anthropic Courses.md",
-    "AI courses/Antropic.md",
     "Clippings/The Agent Skills Directory.md",
     "replace-quartz.sh",
     "cyberpunk.css",
